@@ -1,0 +1,76 @@
+8
+
+dir
+8
+file:///home/svn/xmf_parser/examples
+file:///home/svn/xmf_parser
+
+
+
+2008-06-30T18:41:46.908481Z
+8
+root
+
+
+svn:special svn:externals svn:needs-lock
+
+example.construct_by_uri2.php
+file
+
+
+
+
+2008-06-16T18:45:58.000000Z
+04b468d759cf65d983d7e782b9591bb2
+2008-06-30T18:41:46.908481Z
+8
+root
+
+example.construct_by_html_get_xml.php
+file
+
+
+
+
+2008-06-16T18:38:02.000000Z
+5b5548d00df70ab0b8b44a60194e1df3
+2008-06-30T18:41:46.908481Z
+8
+root
+
+example.construct_by_html.php
+file
+
+
+
+
+2008-06-16T18:37:23.000000Z
+18cedac0d9085077c1c5483a3d7c0cca
+2008-06-30T18:41:46.908481Z
+8
+root
+
+example.construct_by_html_get_json.php
+file
+11
+
+
+
+2008-08-28T22:05:25.000000Z
+eb96a1982d6f82f4cc89ea1c499cffc8
+2008-08-28T22:07:40.233193Z
+11
+root
+
+example.construct_by_uri.php
+file
+
+
+
+
+2008-06-16T18:37:10.000000Z
+ed5adfdbc010bb434c0a17dfc4849aaa
+2008-06-30T18:41:46.908481Z
+8
+root
+

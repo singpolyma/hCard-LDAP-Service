@@ -1,0 +1,7 @@
+To try the examples in the example folders, please change the following line in the example file:
+
+define('XMFP_INCLUDE_PATH', '/home/www/test/xmf_parser-0.7/');
+
+to:
+
+define('XMFP_INCLUDE_PATH', '/path/to/where/you/uncompressed/the/file/');
